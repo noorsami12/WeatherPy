@@ -1,2 +1,2 @@
 # WeatherPy
-Analyzing weather data to create a vacation itinerary with maps based on weather preferences.
+For this project, I analyzed weather data to create a vacation itinerary based on weather preferences. I filtered through a database of cities for those that matches the user's weather preferences, then identified nearby hotels. Four cities were chosen to create a travel itinerary, which I then utilized Google API to create a travel route between the four cities along with accompanying maps. 
